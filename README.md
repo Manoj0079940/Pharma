@@ -429,6 +429,9 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 ![image](https://github.com/Manoj0079940/Pharma/assets/149366208/74361394-b912-4491-9a64-3bc0f56641be)
+![image](https://github.com/Manoj0079940/Pharma/assets/149366208/235b5bea-2f24-453e-a854-20d1c7fe7890)
+![image](https://github.com/Manoj0079940/Pharma/assets/149366208/0a19130b-8996-4ca3-8dac-473ab40b8069)
+![image](https://github.com/Manoj0079940/Pharma/assets/149366208/3a50e38e-97a7-4965-845d-49a3f8467e7e)
 
 
 ## RESULT:
