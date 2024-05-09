@@ -119,13 +119,14 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 Pharmagenix LOKESH M(212223230114)</p>
+    
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
-
+```
+```
 ### products.html
 <!DOCTYPE html>
 <html lang="en">
@@ -237,7 +238,8 @@ Publish the website in the LocalHost.
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
-
+```
+```
 ### News & Events
 <!DOCTYPE html>
 <html lang="en">
@@ -323,12 +325,13 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light">
-    <p>&copy; 2024 Pharmagenix LOKESH M (212223230114)</p>
-  </footer>
+     </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
+```
+```
 ### contact.html
 <!DOCTYPE html>
 <html lang="en">
@@ -415,19 +418,18 @@ Publish the website in the LocalHost.
   </section>
 
   <footer class="text-center py-3 bg-light fixed-bottom">
-    <p>&copy; 2024 Pharmagenix LOKESH M (212223230114)</p>
+    
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
+```
 
 
 ## OUTPUT:
-![image](https://github.com/Manoj0079940/Pharma/assets/149366208/f2c2d3b9-4b8d-4992-9566-42c3c373d31c)
-![image](https://github.com/Manoj0079940/Pharma/assets/149366208/74db7f70-b342-4fb2-80a7-539b92bcc476)
-![image](https://github.com/Manoj0079940/Pharma/assets/149366208/a7c5e73c-7232-48c9-b3ea-feca4eee402a)
-![image](https://github.com/Manoj0079940/Pharma/assets/149366208/36574b7d-1886-4463-87d0-a32579a2bad3)
+![image](https://github.com/Manoj0079940/Pharma/assets/149366208/74361394-b912-4491-9a64-3bc0f56641be)
+
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
